@@ -1,0 +1,54 @@
+body {
+    background: black;
+    text-align: center;
+  }
+  p {
+    color: white;
+    text-align: justify;
+    margin: 50px
+  }
+  h1 {
+    font-weight: bold;
+    text-align: center;
+    color: white;
+    font-family:serif;
+  }
+  
+  h4 {
+    color:white;
+    text-align: justify;
+    margin: 50px;
+  }
+  
+  figcaption{
+    color:white;
+    font-family: serif;
+  }
+  
+  .campeona{
+    margin: 15px;
+    width: 450px;
+  }
+  
+  .gamer{
+    margin:15px;
+    width:450px;
+  }
+  
+  .pio{
+    margin:15px;
+    width:450px;
+  }
+  
+  .rivi{
+    margin: 15px;
+    width: 350px;
+    
+  }
+  
+  a {
+    color:rebeccapurple;
+    font-weight: bold;
+    text-decoration: none;
+  }
+    
